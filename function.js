@@ -1,3 +1,6 @@
+
+
+
 function addProduct() {
   const productName = document.getElementById("productName").value;
   const productMarque = document.getElementById("productMarque").value;
